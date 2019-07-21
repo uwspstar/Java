@@ -8,3 +8,11 @@ https://www.youtube.com/watch?v=KQ433E2R3U0
 ### HOW TO SET JAVA_HOME ON MAC OS X 
 - http://www.sajeconsultants.com/how-to-set-java_home-on-mac-os-x/
 - https://stackoverflow.com/questions/48704413/path-jre-on-vscode-macos
+- $>cd /Library/Java/JavaVirtualMachines/
+- vscode settings.json
+```
+{ 
+"java.home": "/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home"
+...
+}
+```
