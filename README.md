@@ -16,3 +16,5 @@ https://www.youtube.com/watch?v=KQ433E2R3U0
 ...
 }
 ```
+- function (outside class) vs method (inside class)
+
