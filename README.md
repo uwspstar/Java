@@ -17,4 +17,6 @@ https://www.youtube.com/watch?v=KQ433E2R3U0
 }
 ```
 - function (outside class) vs method (inside class)
+- access modifier (public, private, ...)
+- classes using PNC (pascal name convention)
 
